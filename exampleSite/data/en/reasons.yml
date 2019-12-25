@@ -23,3 +23,7 @@ feature:
     content: Förderungen durch die KfW-Bank sind möglich. Eine ausführliche und kompetente
       Beratung hilft  meinen Kunden, ihre gesetzlichen Ansprüche in bestmöglichem
       Umfang auszuschöpfen.
+menu:
+  main:
+    name: Test
+    weight: 1
