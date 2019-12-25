@@ -7,18 +7,23 @@ feature:
     dass eine kompetente Energieberatung bei Modernisierungsplanungen gefragter ist
     denn je, denn:'
   feature_Item:
-  - icon: ti-world
+  - icon: ti-stats-up
     title: Steigende Kosten
     content: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.
-  - icon: ti-panel
+  - icon: ti-agenda
     title: EnEV 2009
     content: Die Energieeinsparverordnung 2009 (EnEV) setzt hohe Maßstäbe an die Energieeinsparung
       bei Modernisierungen.
-  - icon: ti-stats-up
-    title: SEO Optimized
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - icon: ti-announcement
-    title: Easy Customization
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - icon: ti-alert
+    title: Verpflichtung zum Energieausweis
+    content: Der Gebäudeenergieausweis, festgelegt durch die EU-Richtlinie „Gesamtenergieeffizienz
+      in Gebäuden“ und der EnEV 2009 ist für Neu- und Altbauten Pflicht.
+  - icon: ti-gift
+    title: Fördermöglichkeiten
+    content: Förderungen durch die KfW-Bank sind möglich. Eine ausführliche und kompetente
+      Beratung hilft  meinen Kunden, ihre gesetzlichen Ansprüche in bestmöglichem
+      Umfang auszuschöpfen.
+menu:
+  main:
+    name: Test
+    weight: 1

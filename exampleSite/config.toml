@@ -1,7 +1,7 @@
 baseURL = "/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -19,9 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-name = "Test"
-weight = "1"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
