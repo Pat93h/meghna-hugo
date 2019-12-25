@@ -11,9 +11,9 @@ feature:
     title: Steigende Kosten
     content: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.
   - icon: ti-panel
-    title: Easy Customization
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    title: EnEV 2009
+    content: Die Energieeinsparverordnung 2009 (EnEV) setzt hohe Maßstäbe an die Energieeinsparung
+      bei Modernisierungen.
   - icon: ti-stats-up
     title: SEO Optimized
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
