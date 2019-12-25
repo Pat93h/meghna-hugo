@@ -20,3 +20,5 @@ fields:
     required: false
   label: description
   description: this is meta description
+pages:
+- exampleSite/data/de/das-ist-ein-test.md
