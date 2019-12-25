@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   filter_List:
-  - filter_Type: kitchens
+  - filter_Type: kitchen
     filter_Title: kitchens
   - filter_Type: design
     filter_Title: Design
