@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: Über Energieberater Uli Heinen
   about_Item:
   - icon: ti-ruler-pencil
