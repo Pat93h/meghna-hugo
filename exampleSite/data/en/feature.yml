@@ -7,7 +7,7 @@ feature:
     dass eine kompetente Energieberatung bei Modernisierungsplanungen gefragter ist
     denn je, denn:'
   feature_Item:
-  - icon: ti-world
+  - icon: ti-stats-up
     title: Steigende Kosten
     content: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.
   - icon: ti-agenda
