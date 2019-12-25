@@ -4,9 +4,15 @@ about:
   title: Über Energieberater Uli Heinen
   about_Item:
   - icon: ti-ruler-pencil
-    title: Wir bieten Ihnen ...
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Über mich
+    content: |-
+      Neben meiner Tätigkeit als Schreinermeister bin ich seit dem 01.09.2007 als geprüfter Gebäudeenergieberater im Handwerk selbstständig.
+
+      Bei meiner Arbeit als Gebäudeenergieberater stelle ich immer wieder fest, dass eine kompetente Energieberatung bei Modernisierungsplanungen gefragter ist denn je, denn: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.
+
+      - Die Energieeinsparverordnung 2009 (EnEV) setzt hohe Maßstäbe an die Energieeinsparung bei Modernisierungen.
+      - Der Gebäudeenergieausweis, festgelegt durch die EU-Richtlinie „Gesamtenergieeffizienz in Gebäuden“ und der EnEV 2009 ist für Neu- und Altbauten Pflicht.
+      - Förderungen durch die KfW-Bank sind möglich. Eine ausführliche und kompetente Beratung hilft  meinen Kunden, ihre gesetzlichen Ansprüche in bestmöglichem Umfang auszuschöpfen.
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
