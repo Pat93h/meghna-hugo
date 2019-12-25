@@ -11,7 +11,7 @@ portfolio:
     filter_Title: Development
   portfolio_Item:
   - types:
-    - design
+    - kitchen
     image: images/portfolio/portfolio-1.jpg
     URL: 
     title: Tag Design
