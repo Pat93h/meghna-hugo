@@ -14,10 +14,10 @@ feature:
     title: EnEV 2009
     content: Die Energieeinsparverordnung 2009 (EnEV) setzt hohe Maßstäbe an die Energieeinsparung
       bei Modernisierungen.
-  - icon: ti-stats-up
-    title: SEO Optimized
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - icon: ti-alert
+    title: Verpflichtung zum Energieausweis
+    content: Der Gebäudeenergieausweis, festgelegt durch die EU-Richtlinie „Gesamtenergieeffizienz
+      in Gebäuden“ und der EnEV 2009 ist für Neu- und Altbauten Pflicht.
   - icon: ti-announcement
     title: Easy Customization
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
