@@ -1,0 +1,10 @@
+---
+testimonial:
+  enable: true
+  bg_Image: images/backgrounds/bg-2.jpg
+  testimonial_Item:
+  - name: Uli Heinen
+    image: images/team/uli.jpg
+    date: ''
+    content: Neben meiner Tätigkeit als Schreinermeister bin ich seit dem 01.09.2007
+      als geprüfter Gebäudeenergieberater im Handwerk selbstständig.
