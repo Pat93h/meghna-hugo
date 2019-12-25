@@ -25,6 +25,7 @@ description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = false
+social_Icon = []
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -50,21 +51,3 @@ URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-[[params.social_Icon]]
-icon = "ti-facebook"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-youtube"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-pinterest"
-link = "#"
