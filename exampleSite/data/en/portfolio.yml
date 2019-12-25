@@ -4,7 +4,7 @@ portfolio:
   title: Our Works
   filter_List:
   - filter_Type: kitchens
-    filter_Title: Photography
+    filter_Title: kitchens
   - filter_Type: design
     filter_Title: Design
   - filter_Type: development
