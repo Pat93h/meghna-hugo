@@ -10,7 +10,7 @@ skill:
   skill_Item:
   - name: Energieberatung
     percent: 90%
-  - name: Analysis
+  - name: Schreinerarbeiten
     percent: 70%
   - name: Design
     percent: 80%
