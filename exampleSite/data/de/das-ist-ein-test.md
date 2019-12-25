@@ -2,7 +2,6 @@
 author = ""
 date = 2019-12-23T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Das ist ein Test"
 
