@@ -1,7 +1,7 @@
 baseURL = "/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = ["fr", ""]
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
