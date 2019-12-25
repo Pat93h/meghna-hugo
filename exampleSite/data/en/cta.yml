@@ -35,3 +35,8 @@ cta:
     enable: true
     label: Stellen Sie gern eine Anfrage!
     link: "#contact"
+menu:
+  main:
+    URL: services
+    name: Service
+    weight: 2
