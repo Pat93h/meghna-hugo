@@ -8,6 +8,12 @@ portfolio:
   - filter_Type: Küchen
     filter_Title: Küchen
   portfolio_Item:
+  - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_3.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
   - types: ''
     image: images/Haustueren/Haustueren_2.jpg
     URL: ''
