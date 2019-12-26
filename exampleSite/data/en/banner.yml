@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_Image: images/slider/hero-area.jpg
+  bg_Image: images/intro.jpg
   icon: ''
   title: Energieberater Uli Heinen
   content: Willkommen! Hier finden Sie Informationen zu den Dienstleistungen vom Energieberater
