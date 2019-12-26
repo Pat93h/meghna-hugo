@@ -3,12 +3,12 @@ portfolio:
   enable: true
   title: Meine Referenzen
   filter_List:
-  - filter_Type: Weiteres
-    filter_Title: Weiteres
   - filter_Type: Haustüren
     filter_Title: Haustüren
   - filter_Type: Küchen
     filter_Title: Küchen
+  - filter_Type: Weiteres
+    filter_Title: Weiteres
   portfolio_Item:
   - types:
     - Weiteres
