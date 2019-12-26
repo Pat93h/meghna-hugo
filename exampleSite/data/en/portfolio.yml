@@ -10,6 +10,11 @@ portfolio:
   - filter_Type: development
     filter_Title: Development
   portfolio_Item:
+  - types: []
+    image: ''
+    URL: ''
+    title: Küche 1
+    content: Schöne Küche
   - types:
     - kitchen
     image: images/portfolio/portfolio-1.jpg
@@ -71,4 +76,4 @@ portfolio:
 menu:
   main:
     name: Referenzen
-    weight: 3
+    weight: "3"
