@@ -2,7 +2,7 @@
 cta:
   enable: true
   bg_Image: ''
-  title: Energieausweis
+  title: Über Energieausweise
   content: |-
     Bei Vermietung oder Veräußerung eines Gebäudes muss der Hausbesitzer seinen Kunden einen Energieausweis mit den Kennwerten des Energieverbrauchs für dieses Gebäude vorlegen. Somit soll der potenzielle Kunde sich über die Nebenkosten durch die Heizung und Warmwasser für das Gebäude ein Bild machen können.
 
