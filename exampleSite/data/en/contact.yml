@@ -9,7 +9,7 @@ contact:
   form_Action: https://formspree.io/xgeozbel
   map:
     enable: true
-    gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
+    gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyALxcTkYs3umybhT-IpBHZjSr2_bfmCUaw&libraries=places
     mapLatitude: "51.217835"
     mapLongitude: "7.240717"
   contact_Details:
