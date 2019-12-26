@@ -68,3 +68,7 @@ portfolio:
     URL: 
     title: Tag Design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+menu:
+  main:
+    name: Referenzen
+    weight: 3

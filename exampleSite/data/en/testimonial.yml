@@ -8,3 +8,7 @@ testimonial:
     date: ''
     content: Neben meiner Tätigkeit als Schreinermeister bin ich seit dem 01.09.2007
       als geprüfter Gebäudeenergieberater im Handwerk selbstständig.
+menu:
+  main:
+    name: Über mich
+    weight: 1

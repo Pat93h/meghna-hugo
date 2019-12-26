@@ -38,5 +38,5 @@ cta:
 menu:
   main:
     URL: services
-    name: Service
-    weight: 2
+    name: Energieausweis
+    weight: "2"
