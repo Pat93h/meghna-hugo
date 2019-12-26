@@ -8,6 +8,12 @@ portfolio:
   portfolio_Item:
   - types:
     - Küchen
+    image: "/images/Kuechen/Kuechen_8.jpg"
+    URL: ''
+    title: Beispielküche 2
+    content: ''
+  - types:
+    - Küchen
     image: images/Kuechen/Kuechen_3.jpg
     URL: ''
     title: Beispielküche 1
