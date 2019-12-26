@@ -8,6 +8,11 @@ portfolio:
   - filter_Type: Küchen
     filter_Title: Küchen
   portfolio_Item:
+  - types: ''
+    image: images/Weiteres/Weiteres_1.jpg
+    URL: ''
+    title: Treppenaufgang
+    content: ''
   - types:
     - Haustüren
     image: images/Haustueren/Haustueren_4.jpg
