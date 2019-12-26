@@ -666,7 +666,7 @@ a:hover {
 ==================================================================*/
 .call-to-action {
   background-attachment: fixed;
-  background-color: #eee;
+  background-color: #414c58;
 }
 
 .call-to-action h2 {
@@ -675,8 +675,8 @@ a:hover {
 }
 
 .call-to-action p {
-  font-size: 16px;
-  color: #000;
+  font-size: 18px;
+  color: #fff;
 }
 
 .call-to-action .btn-main {
