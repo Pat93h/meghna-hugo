@@ -6,7 +6,7 @@ contact:
   content: Sie haben noch Fragen oder möchten einen Auftrag erteilen? Dann melden
     Sie sich gerne über nebenstehendes Kontaktformular oder direkt telefonisch. Ich
     freue mich darauf, von Ihnen zu hören!
-  form_Action: "#"
+  form_Action: https://formspree.io/xgeozbel
   map:
     enable: true
     gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
