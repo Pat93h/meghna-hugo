@@ -20,13 +20,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "Referenzen"
+url = "portfolio"
+weight = 3
+[[menu.main]]
+name = "Energieausweis"
+url = "ctr"
+weight = 2
+[[menu.main]]
 name = "Über mich"
 url = "testimonial"
 weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
-weight = 2
+weight = 4
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
