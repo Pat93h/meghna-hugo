@@ -1141,7 +1141,7 @@ a:hover {
 
 .client-info {
   margin: 0 auto;
-  width: 45%;
+  width: 60%;
 }
 
 @media (max-width: 768px) {
@@ -1152,13 +1152,13 @@ a:hover {
 
 .client-comment p {
   color: #afbac4;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .client-thumb img {
   border-radius: 50%;
   margin: 0 auto;
-  max-width: 115px;
+  max-width: 180px;
   width: 100%;
 }
 
