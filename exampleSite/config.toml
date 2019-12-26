@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Energieberater Uli Heinen"
+title = "Gebäude-Energieberater und Tischlermeister Uli Heinen in Remscheid"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
