@@ -14,7 +14,8 @@ portfolio:
     URL: ''
     title: Moderne Haustür
     content: ''
-  - types: ''
+  - types:
+    - Haustüren
     image: images/Haustueren/Haustueren_2.jpg
     URL: ''
     title: Klassische Haustür
