@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   title: Über mich
-  bg_Image: images/backgrounds/bg-2.jpg
+  bg_Image: images/backgrounds/bg-3.jpg
   testimonial_Item:
   - name: Uli Heinen
     image: images/team/uli.jpg
@@ -12,4 +12,4 @@ testimonial:
 menu:
   main:
     name: Über mich
-    weight: 1
+    weight: "1"
