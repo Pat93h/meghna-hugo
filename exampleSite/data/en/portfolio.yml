@@ -10,6 +10,12 @@ portfolio:
   portfolio_Item:
   - types:
     - Haustüren
+    image: images/Haustueren/Haustueren_4.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
+  - types:
+    - Haustüren
     image: images/Haustueren/Haustueren_3.jpg
     URL: ''
     title: Moderne Haustür
