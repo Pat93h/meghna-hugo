@@ -11,48 +11,6 @@ portfolio:
     filter_Title: Weiteres
   portfolio_Item:
   - types:
-    - Weiteres
-    image: images/Weiteres/Weiteres_2.jpg
-    URL: ''
-    title: Parkettboden
-    content: ''
-  - types:
-    - Weiteres
-    image: images/Weiteres/Weiteres_1.jpg
-    URL: ''
-    title: Treppenaufgang
-    content: ''
-  - types:
-    - Haustüren
-    image: images/Haustueren/Haustueren_4.jpg
-    URL: ''
-    title: Moderne Haustür
-    content: ''
-  - types:
-    - Haustüren
-    image: images/Haustueren/Haustueren_3.jpg
-    URL: ''
-    title: Moderne Haustür
-    content: ''
-  - types:
-    - Haustüren
-    image: images/Haustueren/Haustueren_2.jpg
-    URL: ''
-    title: Klassische Haustür
-    content: ''
-  - types:
-    - Haustüren
-    image: images/Haustueren/Haustueren_1.jpg
-    URL: ''
-    title: Klassische Haustür
-    content: ''
-  - types:
-    - Küchen
-    image: images/Kuechen/Kuechen_8.jpg
-    URL: ''
-    title: Beispielküche 2
-    content: ''
-  - types:
     - Küchen
     image: images/Kuechen/Kuechen_3.jpg
     URL: ''
@@ -63,6 +21,48 @@ portfolio:
     URL: ''
     title: Küche 1
     content: Schöne Küche
+  - types:
+    - Küchen
+    image: images/Kuechen/Kuechen_8.jpg
+    URL: ''
+    title: Beispielküche 2
+    content: ''
+  - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_1.jpg
+    URL: ''
+    title: Klassische Haustür
+    content: ''
+  - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_2.jpg
+    URL: ''
+    title: Klassische Haustür
+    content: ''
+  - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_3.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
+  - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_4.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
+  - types:
+    - Weiteres
+    image: images/Weiteres/Weiteres_1.jpg
+    URL: ''
+    title: Treppenaufgang
+    content: ''
+  - types:
+    - Weiteres
+    image: images/Weiteres/Weiteres_2.jpg
+    URL: ''
+    title: Parkettboden
+    content: ''
 menu:
   main:
     name: Referenzen
