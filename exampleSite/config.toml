@@ -22,11 +22,11 @@ weight = 2
 [[menu.main]]
 name = "Über mich"
 url = "testimonial"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
-weight = 1
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
