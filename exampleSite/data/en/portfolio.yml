@@ -11,6 +11,12 @@ portfolio:
     filter_Title: Weiteres
   portfolio_Item:
   - types:
+    - Kuechen
+    image: images/Kuechen/Kuechen_9.jpg
+    URL: ''
+    title: ''
+    content: ''
+  - types:
     - Küchen
     image: images/Kuechen/Kuechen_3.jpg
     URL: ''
