@@ -10,7 +10,8 @@ portfolio:
   - filter_Type: Weiteres
     filter_Title: Weiteres
   portfolio_Item:
-  - types: ''
+  - types:
+    - Weiteres
     image: images/Weiteres/Weiteres_2.jpg
     URL: ''
     title: Parkettboden
