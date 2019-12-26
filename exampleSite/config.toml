@@ -24,7 +24,7 @@ URL = "portfolio"
 name = "Referenzen"
 weight = 3
 [[menu.main]]
-URL = "Cta"
+URL = "cta"
 name = "Energieausweis"
 weight = 2
 [[menu.main]]

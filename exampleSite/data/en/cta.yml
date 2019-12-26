@@ -37,6 +37,6 @@ cta:
     link: "#contact"
 menu:
   main:
-    URL: Cta
+    URL: cta
     name: Energieausweis
     weight: "2"
