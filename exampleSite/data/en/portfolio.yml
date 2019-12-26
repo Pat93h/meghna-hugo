@@ -7,6 +7,12 @@ portfolio:
     filter_Title: Küchen
   portfolio_Item:
   - types:
+    - Haustüren
+    image: images/Haustueren/Haustueren_1.jpg
+    URL: ''
+    title: Klassische Haustür
+    content: ''
+  - types:
     - Küchen
     image: images/Kuechen/Kuechen_8.jpg
     URL: ''
