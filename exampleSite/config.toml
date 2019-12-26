@@ -20,16 +20,16 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "portfolio"
 name = "Referenzen"
-url = "portfolio"
 weight = 3
 [[menu.main]]
+URL = "Cta"
 name = "Energieausweis"
-url = "cta"
 weight = 2
 [[menu.main]]
+URL = "testimonial"
 name = "Über mich"
-url = "testimonial"
 weight = 1
 [[menu.main]]
 URL = "contact"
