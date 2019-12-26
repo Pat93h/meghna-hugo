@@ -21,6 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 name = "Über mich"
+url = "testimonial"
 weight = 2
 [[menu.main]]
 URL = "contact"
