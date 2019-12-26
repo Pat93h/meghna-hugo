@@ -3,8 +3,7 @@ impressum:
   enable: true
   bg_Image: ''
   title: Impressum
-  content: |-
-    Hier folgt das Impressum bald.
+  content: "### Firmeninformationen"
   button:
     enable: false
     label: Stellen Sie gern eine Anfrage!
