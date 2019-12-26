@@ -1,11 +1,11 @@
 ---
 contact:
   enable: true
-  title: Kontaktieren Sie mich
+  title: Kontakt aufnehmen
   subtitle: So erreichen Sie mich
   content: Sie haben noch Fragen oder möchten einen Auftrag erteilen? Dann melden
-    Sie sich gerne über nebenstehendes Kontaktformular oder direkt telefonisch (siehe
-    unten). Ich freue mich darauf, von Ihnen zu hören!
+    Sie sich gerne über nebenstehendes Kontaktformular oder direkt telefonisch. Ich
+    freue mich darauf, von Ihnen zu hören!
   form_Action: "#"
   map:
     enable: true
@@ -13,6 +13,8 @@ contact:
     mapLatitude: "51.5223477"
     mapLongitude: "-0.1622023"
   contact_Details:
+  - icon: ti-mobile
+    info: 'Mobil: 0 15 77 / 2 88 64 91'
   - icon: ti-location-pin
     info: Barmer Str. 59, 42899 Remscheid
   - icon: ti-mobile
