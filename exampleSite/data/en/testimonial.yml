@@ -1,6 +1,7 @@
 ---
 testimonial:
   enable: true
+  title: Über mich
   bg_Image: images/backgrounds/bg-2.jpg
   testimonial_Item:
   - name: Uli Heinen
