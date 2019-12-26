@@ -8,7 +8,7 @@ contact:
     freue mich darauf, von Ihnen zu hören!
   form_Action: https://formspree.io/xgeozbel
   map:
-    enable: true
+    enable: false
     gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyALxcTkYs3umybhT-IpBHZjSr2_bfmCUaw&libraries=places
     mapLatitude: "51.217835"
     mapLongitude: "7.240717"
