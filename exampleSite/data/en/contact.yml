@@ -13,13 +13,13 @@ contact:
     mapLatitude: "51.5223477"
     mapLongitude: "-0.1622023"
   contact_Details:
-  - icon: ti-mobile
-    info: 'Mobil: 0 15 77 / 2 88 64 91'
   - icon: ti-location-pin
     info: Barmer Str. 59, 42899 Remscheid
   - icon: ti-mobile
     info: 'Telefon: 0 21 91 / 5 11 13'
+  - icon: ti-mobile
+    info: 'Mobil: 0 15 77 / 2 88 64 91'
   - icon: ti-printer 0 21 91 / 4 62 78 45
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: info@energieberatung-heinen.de'
