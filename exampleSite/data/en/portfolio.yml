@@ -12,7 +12,8 @@ portfolio:
   - filter_Type: development
     filter_Title: Development
   portfolio_Item:
-  - types: ''
+  - types:
+    - kuechen
     image: images/Kuechen/Kuechen_3.jpg
     URL: ''
     title: ''
