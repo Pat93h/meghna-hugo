@@ -3,7 +3,11 @@ impressum:
   enable: true
   bg_Image: ''
   title: Impressum
-  content: "### Firmeninformationen"
+  content: |-
+    ### Firmeninformationen
+    **Ulrich Heinen**
+    *Energieberater*
+    aaa
   button:
     enable: false
     label: Stellen Sie gern eine Anfrage!
