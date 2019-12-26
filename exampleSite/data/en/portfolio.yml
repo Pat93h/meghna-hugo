@@ -1,8 +1,10 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Meine Referenzen
   filter_List:
+  - filter_Type: Küchen
+    filter_Title: Küchen
   - filter_Type: kitchen
     filter_Title: kitchens
   - filter_Type: design
