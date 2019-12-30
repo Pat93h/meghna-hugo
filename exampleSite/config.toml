@@ -1,5 +1,5 @@
 baseURL = "/"
-defaultContentLanguage = "en"
+defaultContentLanguage = ""
 defaultContentLanguageInSubdir = true
 disableLanguages = ["fr"]
 disqusShortname = ""
