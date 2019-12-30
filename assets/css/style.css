@@ -46,6 +46,17 @@ pre {
   color: #afbac4;
 }
 
+.panel-body {
+    background-color: #333942;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.panel-heading {
+    background-color: #242930;
+    padding: 10px;
+}
+
 /*=================================================================
   Basic Setup
 ==================================================================*/
