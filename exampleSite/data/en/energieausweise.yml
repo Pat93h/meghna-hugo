@@ -4,7 +4,7 @@ energieausweise:
   bg_Image: ''
   title: Über Energieausweise
   content: |-
-    <button data-toggle="collapse" data-target="#demo">Collapsible</button>
+    <a href="#demo" data-toggle="collapse">Collapsible</a>
 
     <div id="demo" class="collapse">
     Lorem ipsum dolor text....
