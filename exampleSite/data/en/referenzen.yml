@@ -12,6 +12,12 @@ referenzen:
   referenzen_Item:
   - types:
     - Küchen
+    image: images/Kuechen/10.jpg
+    URL: ''
+    title: Küche mit Hochglanzfronten
+    content: ''
+  - types:
+    - Küchen
     image: images/Kuechen/Kuechen_9.jpg
     URL: ''
     title: Küche mit Insel
