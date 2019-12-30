@@ -40,7 +40,7 @@ URL = "referenzen"
 name = "Referenzen"
 weight = 4
 [[menu.main]]
-URL = "kontact"
+URL = "kontakt"
 name = "Kontakt"
 weight = 5
 [params]
