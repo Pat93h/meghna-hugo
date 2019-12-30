@@ -10,8 +10,8 @@ energieausweise:
 
     Der bedarfsorientierte Energieausweis dagegen berechnet die Energieverluste durch die Aussenbauteile und der gesamten Anlagentechnik. Mit dieser Berechnung können die Schwachpunkte des Gebäudes lokalisiert werden. Dadurch lassen sich dann Modernisierungsmaßnahmen explizit durchrechnen und das Einsparpotenzial durch die Maßnahme ermitteln. Allerdings ist die Berechnung des bedarfsorientierten Ausweises deutlich aufwändiger.
 
-    Ob Ihr Gebäude nun einen bedarfsorientierten oder verbrauchsorientierten Energieausweis benötigt, kann ich Ihnen schnell und zuverlässig in einem ersten Gespräch ermitteln.
-    
+    Ob Ihr Gebäude nun einen bedarfsorientierten oder verbrauchsorientierten Energieausweis benötigt, kann ich Ihnen schnell und zuverlässig in einem ersten Gespräch ermitteln. Nachfolgend finden Sie erste Antworten auf die wichtigsten Fragen rund um den Energieausweis.
+
     <div class="panel-group" id="accordion">
       <div class="panel panel-default">
         <a data-toggle="collapse" data-parent="#accordion" href="#what">
@@ -61,7 +61,6 @@ energieausweise:
         </div>
       </div>
     </div>
-
   button:
     enable: true
     label: Stellen Sie gern eine Anfrage!
