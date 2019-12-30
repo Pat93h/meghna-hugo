@@ -11,6 +11,12 @@ referenzen:
     filter_Title: Weiteres
   referenzen_Item:
   - types:
+    - Weiteres
+    image: images/weiteres/5.jpg
+    URL: ''
+    title: Wärmebild-Aufnahme
+    content: ''
+  - types:
     - Küchen
     image: images/Kuechen/Kuechen_9.jpg
     URL: ''
