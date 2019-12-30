@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+{{ if $data.leistungen.leistungen.enable }}
+{{ with $data.leistungen.leistungen }}
 {{"<!-- Start About Section -->" | safeHTML}}
 <section class="bg-2 overly about section" id="about" style='background-image: url("{{ .bg_Image | absURL }}")'>
 	<center>
@@ -19,7 +19,7 @@
 				<div class="col-lg-12">
 						<p style="color: #FFF; font-size: 20px;">Folgende Leistungen biete ich Ihnen als Gebäudeenergieberater und Tischlermeister an:</p>
 				</div>
-				{{ range .about_Item }}
+				{{ range .leistungen_Item }}
 				{{"<!-- About item -->" | safeHTML}}
 				<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
 					<div class="block">

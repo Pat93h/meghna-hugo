@@ -24,7 +24,7 @@ URL = "impressum"
 name = "Impressum und Datenschutz"
 weight = 6
 [[menu.main]]
-URL = "cta"
+URL = "energieausweise"
 name = "Energieausweis"
 weight = 2
 [[menu.main]]
@@ -32,7 +32,7 @@ URL = "aboutme"
 name = "Über mich"
 weight = 1
 [[menu.main]]
-URL = "about"
+URL = "leistungen"
 name = "Leistungen"
 weight = 3
 [[menu.main]]
