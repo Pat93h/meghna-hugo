@@ -4,7 +4,6 @@
 {{ with $data.service.service}}
 {{"<!-- service -->" | safeHTML }}
 <section id="services" class="bg-one section">
-	Im folgenden finden Sie meine Leistungen im Überblick.
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -16,6 +15,7 @@
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML }}
+			<p>Test 2 folgt hier</p>
 
 			{{ range .service_Item}}
 			{{"<!-- Single Service Item -->" | safeHTML }}
