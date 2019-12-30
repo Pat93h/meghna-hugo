@@ -61,7 +61,3 @@ energieausweise:
         </div>
       </div>
     </div>
-  button:
-    enable: true
-    label: Stellen Sie gern eine Anfrage!
-    link: "#kontakt"
