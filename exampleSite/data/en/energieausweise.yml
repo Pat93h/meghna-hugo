@@ -4,6 +4,12 @@ energieausweise:
   bg_Image: ''
   title: Über Energieausweise
   content: |-
+    <button data-toggle="collapse" data-target="#demo">Collapsible</button>
+
+    <div id="demo" class="collapse">
+    Lorem ipsum dolor text....
+    </div>
+
     Bei Vermietung oder Veräußerung eines Gebäudes muss der Hausbesitzer seinen Kunden einen Energieausweis mit den Kennwerten des Energieverbrauchs für dieses Gebäude vorlegen. Somit soll der potenzielle Kunde sich über die Nebenkosten durch die Heizung und Warmwasser für das Gebäude ein Bild machen können.
 
     Dieser Energieausweis kann unter bestimmten Bedingungen verbrauchsorientiert oder bedarfsorientiert ermittelt werden. Verbrauchsorientierte Ausweise können sehr preiswert ausgestellt werden. Der Nachweis wird unter Berücksichtigung der tatsächlichen Energieverbräuche des Gebäudes von drei zusammenhängenden Jahren ermittelt. Eine tatsächliche Aussage über die Energieeffizienz des Gebäudes, also die Dämmqualität der Außenhülle oder die Aktualität der Heizungsanlage bietet der verbrauchsorientierte Ausweis nicht.
