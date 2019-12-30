@@ -1,5 +1,5 @@
 ---
-portfolio:
+referenzen:
   enable: true
   title: Meine Referenzen
   filter_List:
@@ -9,7 +9,7 @@ portfolio:
     filter_Title: Küchen
   - filter_Type: Weiteres
     filter_Title: Weiteres
-  portfolio_Item:
+  referenzen_Item:
   - types:
     - Küchen
     image: images/Kuechen/Kuechen_9.jpg

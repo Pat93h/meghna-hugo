@@ -1,9 +1,9 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.portfolio.portfolio.enable }}
-{{ with $data.portfolio.portfolio }}
+{{ if $data.referenzen.referenzen.enable }}
+{{ with $data.referenzen.referenzen }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
-<section class="portfolio section" id="portfolio">
+<section class="portfolio section" id="referenzen">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -21,7 +21,7 @@
 				<div class="btn-group portfolio-filter btn-group-toggle justify-content-center d-flex flex-wrap"
 					data-toggle="buttons">
 					<label class="btn active">
-						<input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+						<input type="radio" name="shuffle-filter" value="all" checked="checked" />Alle
 					</label>
 					{{ range .filter_List }}
 					<label class="btn">
@@ -34,7 +34,7 @@
 
 		<div class="row shuffle-wrapper">
 			{{"<!-- portfolio item -->" | safeHTML}}
-			{{ range .portfolio_Item }}
+			{{ range .referenzen_Item }}
 			<div class="col-lg-4 shuffle-item"
 				data-groups="[{{range $index, $element:= .types }}{{if eq $index 0}} {{else}},{{end}}&quot;{{.}}&quot;{{ end }}]">
 				<div class="portfolio-block mb-4">
