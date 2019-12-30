@@ -12,14 +12,53 @@ energieausweise:
 
     Ob Ihr Gebäude nun einen bedarfsorientierten oder verbrauchsorientierten Energieausweis benötigt, kann ich Ihnen schnell und zuverlässig in einem ersten Gespräch ermitteln.
 
+    <div class="panel-group" id="accordion">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#what">
+            Was ist ein Energieausweis?</a>
+          </h4>
+        </div>
+        <div id="what" class="panel-collapse collapse in">
+          <div class="panel-body">Energieausweise geben Auskunft über den Energieverbrauch pro Quadratmeter Nutzfläche und Jahr, ähnlich wie wir das schon von Energieeffizienzklassen bei Haushaltsgeräten oder dem Durchschnittsverbrauch von Fahrzeugen kennen. Damit sollen Kaufinteressenten und künftige Mieter eine objektive Information darüber bekommen, ob das Gebäude einen hohen oder einen niedrigen Energiebedarf hat. Die politische Erwartung besteht darin, Gebäude mit schlechten Energiekennwerten kenntlich zu machen, um so den Gebäudeeigentümer zu energetisch wirksamen Modernisierungen zu motivieren</div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#who">
+            Wer braucht einen Energieausweis?</a>
+          </h4>
+        </div>
+        <div id="who" class="panel-collapse collapse">
+          <div class="panel-body">Jeder Kauf- oder Mietinteressent für eine Wohnung oder ein Haus hat das Recht auf Vorlage eines gültigen Energieausweises durch den Verkäufer oder Vermieter. Mieter in bestehenden Mietverhältnissen haben keinen Anspruch auf einen Energieausweis. Ein Energieausweis ist immer dann erforderlich, wenn ein Haus oder eine Wohnung verkauft, bzw. neu vermietet wird.</div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+            Collapsible Group 3</a>
+          </h4>
+        </div>
+        <div id="collapse3" class="panel-collapse collapse">
+          <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat.</div>
+        </div>
+      </div>
+    </div>
+
     <a href="#what" data-toggle="collapse">## Was ist ein Energieausweis?</a>
 
     <p id="what" class="collapse">
-    Energieausweise geben Auskunft über den Energieverbrauch pro Quadratmeter Nutzfläche und Jahr, ähnlich wie wir das schon von Energieeffizienzklassen bei Haushaltsgeräten oder dem Durchschnittsverbrauch von Fahrzeugen kennen. Damit sollen Kaufinteressenten und künftige Mieter eine objektive Information darüber bekommen, ob das Gebäude einen hohen oder einen niedrigen Energiebedarf hat. Die politische Erwartung besteht darin, Gebäude mit schlechten Energiekennwerten kenntlich zu machen, um so den Gebäudeeigentümer zu energetisch wirksamen Modernisierungen zu motivieren.
+
     </div>
 
     ## Wer braucht einen Energieausweis?
-    Jeder Kauf- oder Mietinteressent für eine Wohnung oder ein Haus hat das Recht auf Vorlage eines gültigen Energieausweises durch den Verkäufer oder Vermieter. Mieter in bestehenden Mietverhältnissen haben keinen Anspruch auf einen Energieausweis. Ein Energieausweis ist immer dann erforderlich, wenn ein Haus oder eine Wohnung verkauft, bzw. neu vermietet wird.
+
 
     ## Welchen Energieausweis benötige ich?
     Der Gesetzgeber lässt zwei Varianten zu: den verbrauchs- und den bedarfsbasierten Energieausweis. Ein verbrauchsbasierter Energieausweis kann besonders günstig erstellt werden, weil er aus den bekannten Verbrauchsdaten der Heizkostenabrechnungen der letzten drei Jahre berechnet wird. Beim bedarfsbasierten Energieausweis ist oft eine aufwändigere und deshalb teurere Begutachtung des Gebäudes vor Ort erforderlich.
