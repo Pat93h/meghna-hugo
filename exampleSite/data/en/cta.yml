@@ -35,8 +35,3 @@ cta:
     enable: true
     label: Stellen Sie gern eine Anfrage!
     link: "#contact"
-menu:
-  main:
-    URL: cta
-    name: Energieausweis
-    weight: "2"

@@ -70,7 +70,3 @@ portfolio:
     URL: ''
     title: Parkettboden
     content: ''
-menu:
-  main:
-    name: Referenzen
-    weight: "3"

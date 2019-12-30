@@ -35,8 +35,3 @@ impressum:
     enable: false
     label: Stellen Sie gern eine Anfrage!
     link: "#contact"
-menu:
-  main:
-    URL: impressum
-    name: Impressum und Datenschutz
-    weight: "2"

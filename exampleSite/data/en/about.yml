@@ -2,6 +2,7 @@
 about:
   enable: true
   title: Meine Leistungen
+  bg_Image: images/backgrounds/bg-3.jpg
   about_Item:
   - icon : ti-world # themify icon pack : https://themify.me/themify-icons
     title : Energieausweis
@@ -25,4 +26,4 @@ about:
 
   - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
     title : Schreiner- und Reparaturarbeiten
-    content : 
+    content :
