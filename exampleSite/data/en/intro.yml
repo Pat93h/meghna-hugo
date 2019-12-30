@@ -1,12 +1,12 @@
 ---
-feature:
+intro:
   enable: true
   image: images/Energieberatung/Energie_2.jpg
   title: Gute Gründe für einen Energieberater
   content: 'Bei meiner Arbeit als Gebäudeenergieberater stelle ich immer wieder fest,
     dass eine kompetente Energieberatung bei Modernisierungsplanungen gefragter ist
     denn je, denn:'
-  feature_Item:
+  intro_Item:
   - icon: ti-stats-up
     title: Die Kosten steigen
     content: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.

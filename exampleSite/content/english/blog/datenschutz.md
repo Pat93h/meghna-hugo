@@ -15,7 +15,7 @@ Barmer Str. 59
 Deutschland  
 
 E-Mail Adresse: info@energieberatung-heinen.de  
-Link zum Impressum: [Linkname](../../#impressum)
+[Link zum Impressum](../../#impressum)
 
 ## Arten der verarbeiteten Daten:
 - Bestandsdaten (z.B., Namen, Adressen).

@@ -28,7 +28,7 @@ URL = "cta"
 name = "Energieausweis"
 weight = 2
 [[menu.main]]
-URL = "testimonial"
+URL = "aboutme"
 name = "Über mich"
 weight = 1
 [[menu.main]]
