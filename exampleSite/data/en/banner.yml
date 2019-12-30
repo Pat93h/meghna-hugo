@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Mehr erfahren
-    link: "#feature"
+    link: "#intro"
