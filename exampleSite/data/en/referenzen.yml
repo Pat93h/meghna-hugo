@@ -12,6 +12,12 @@ referenzen:
   referenzen_Item:
   - types:
     - Weiteres
+    image: images/Weiteres/4.jpg
+    URL: ''
+    title: Rundtreppe
+    content: ''
+  - types:
+    - Weiteres
     image: images/Weiteres/3.jpg
     URL: ''
     title: Treppenaufgang
