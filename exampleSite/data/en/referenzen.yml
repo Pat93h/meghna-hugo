@@ -11,6 +11,12 @@ referenzen:
     filter_Title: Weiteres
   referenzen_Item:
   - types:
+    - Haustüren
+    image: images/Haustueren/5.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
+  - types:
     - Küchen
     image: images/Kuechen/10.jpg
     URL: ''
