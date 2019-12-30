@@ -5,7 +5,7 @@ about:
   bg_Image: images/backgrounds/bg-3.jpg
   about_Item:
   - icon: ti-bolt
-    title: Energieausweis
+    title: Energieausweise
     content: Erstellung auf Grundlage des Energiebedarfs bzw. des Energieverbrauchs
       eines Gebäudes
   - icon: ti-wand
