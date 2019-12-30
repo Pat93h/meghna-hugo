@@ -63,7 +63,9 @@ energieausweise:
           </h4>
         </div>
         <div id="howlong" class="panel-collapse collapse">
-          <div class="panel-body">Energieausweise haben eine Gültigkeitsdauer von 10 Jahren. Wer dazwischen energetische Verbesserungen seines Gebäudes vornimmt, wird allerdings vor Ablauf von 10 Jahren einen neuen Energieausweis erstellen lassen, um die Vorteile gegenüber Käufern und Mietern auch nachweisen zu können. Grundsätzlich erzielen Gebäude mit niedrigen Energieverbräuchen einen deutlich höheren Marktwert. Die Nachfrage nach energieeffiziente Gebäude wird ständig steigen.</div>
+          <div class="panel-body">
+          Energieausweise haben eine Gültigkeitsdauer von 10 Jahren. Wer dazwischen energetische Verbesserungen seines Gebäudes vornimmt, wird allerdings vor Ablauf von 10 Jahren einen neuen Energieausweis erstellen lassen, um die Vorteile gegenüber Käufern und Mietern auch nachweisen zu können. Grundsätzlich erzielen Gebäude mit niedrigen Energieverbräuchen einen deutlich höheren Marktwert. Die Nachfrage nach energieeffiziente Gebäude wird ständig steigen.
+          </div>
         </div>
       </div>
     </div>
