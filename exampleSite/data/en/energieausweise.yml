@@ -14,34 +14,31 @@ energieausweise:
 
     <div class="panel-group" id="accordion">
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#what">
-            Was ist ein Energieausweis?</a>
-          </h4>
-        </div>
+        <a data-toggle="collapse" data-parent="#accordion" href="#what">
+          <div class="panel-heading">
+            <h4 class="panel-title">Was ist ein Energieausweis?</h4>
+          </div>
+        </a>
         <div id="what" class="panel-collapse collapse in">
           <div class="panel-body">Energieausweise geben Auskunft über den Energieverbrauch pro Quadratmeter Nutzfläche und Jahr, ähnlich wie wir das schon von Energieeffizienzklassen bei Haushaltsgeräten oder dem Durchschnittsverbrauch von Fahrzeugen kennen. Damit sollen Kaufinteressenten und künftige Mieter eine objektive Information darüber bekommen, ob das Gebäude einen hohen oder einen niedrigen Energiebedarf hat. Die politische Erwartung besteht darin, Gebäude mit schlechten Energiekennwerten kenntlich zu machen, um so den Gebäudeeigentümer zu energetisch wirksamen Modernisierungen zu motivieren</div>
         </div>
       </div>
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#who">
-            Wer braucht einen Energieausweis?</a>
-          </h4>
-        </div>
+        <a data-toggle="collapse" data-parent="#accordion" href="#who">
+          <div class="panel-heading">
+            <h4 class="panel-title">Wer braucht einen Energieausweis?</h4>
+          </div>
+        </a>
         <div id="who" class="panel-collapse collapse">
           <div class="panel-body">Jeder Kauf- oder Mietinteressent für eine Wohnung oder ein Haus hat das Recht auf Vorlage eines gültigen Energieausweises durch den Verkäufer oder Vermieter. Mieter in bestehenden Mietverhältnissen haben keinen Anspruch auf einen Energieausweis. Ein Energieausweis ist immer dann erforderlich, wenn ein Haus oder eine Wohnung verkauft, bzw. neu vermietet wird.</div>
         </div>
       </div>
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#which">
-            Welchen Energieausweis benötige ich?</a>
-          </h4>
-        </div>
+        <a data-toggle="collapse" data-parent="#accordion" href="#which">
+          <div class="panel-heading">
+            <h4 class="panel-title">Welchen Energieausweis benötige ich?</h4>
+          </div>
+        </a>
         <div id="which" class="panel-collapse collapse">
           <div class="panel-body">Der Gesetzgeber lässt zwei Varianten zu: den verbrauchs- und den bedarfsbasierten Energieausweis. Ein verbrauchsbasierter Energieausweis kann besonders günstig erstellt werden, weil er aus den bekannten Verbrauchsdaten der Heizkostenabrechnungen der letzten drei Jahre berechnet wird. Beim bedarfsbasierten Energieausweis ist oft eine aufwändigere und deshalb teurere Begutachtung des Gebäudes vor Ort erforderlich.
           Der Kabinettsbeschluss gibt dem Gebäudeeigentümer folgende Möglichkeiten:
@@ -52,12 +49,11 @@ energieausweise:
         </div>
       </div>
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#howlong">
-            Wie lange ist ein Energieausweis gültig?</a>
-          </h4>
-        </div>
+        <a data-toggle="collapse" data-parent="#accordion" href="#howlong">
+          <div class="panel-heading">
+            <h4 class="panel-title">Wie lange ist ein Energieausweis gültig?</h4>
+          </div>
+        </a>
         <div id="howlong" class="panel-collapse collapse">
           <div class="panel-body">
           Energieausweise haben eine Gültigkeitsdauer von 10 Jahren. Wer dazwischen energetische Verbesserungen seines Gebäudes vornimmt, wird allerdings vor Ablauf von 10 Jahren einen neuen Energieausweis erstellen lassen, um die Vorteile gegenüber Käufern und Mietern auch nachweisen zu können. Grundsätzlich erzielen Gebäude mit niedrigen Energieverbräuchen einen deutlich höheren Marktwert. Die Nachfrage nach energieeffiziente Gebäude wird ständig steigen.
