@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.impressum.impressum.enable}}
-{{ with $data.impressum.impressum}}
+{{ if $data.cta.container.enable}}
+{{ with $data.cta.cta}}
 {{"<!-- Start Call To Action -->" | safeHTML}}
 <section id="impressum" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_Image | relURL }}")'>
 	<div class="container">

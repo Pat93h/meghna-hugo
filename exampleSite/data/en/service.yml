@@ -4,25 +4,25 @@ service:
   title : Our Services
   service_Item :
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      title : Energieausweis
+      content : Erstellung auf Grundlage des Energiebedarfs bzw. des Energieverbrauchs eines Gebäudes
+
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      title : Modernisierungskonzepte
+      content : Erstellung von Modernisierungskonzepten mit Amortisationsberechnungen
+
     - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      title : Beratung
+      content : zur Auswahl von Förderprogrammen
+
     - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      title : Bau
+      content : von Möbeln und Küchen
+
     - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      title : Fenster und Türen
+      content : Beratung, Einbau, Insektenschutz für Fenster und Türen
+
     - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      title : Schreiner- und Reparaturarbeiten
+      content : 
