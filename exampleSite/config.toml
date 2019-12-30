@@ -20,8 +20,8 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "impressum"
 name = "Impressum und Datenschutz"
-url = "impressum"
 weight = 5
 [[menu.main]]
 URL = "cta"
