@@ -32,8 +32,8 @@ URL = "testimonial"
 name = "Über mich"
 weight = 1
 [[menu.main]]
-URL = "portfolio"
-name = "Referenzen"
+URL = "about"
+name = "Leistungen"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
