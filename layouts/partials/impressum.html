@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.cta.container.enable}}
-{{ with $data.cta.cta}}
+{{ if $data.impressum.container.enable}}
+{{ with $data.impressum.impressum}}
 {{"<!-- Start Call To Action -->" | safeHTML}}
 <section id="impressum" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_Image | relURL }}")'>
 	<div class="container">
@@ -14,7 +14,7 @@
 					<div class="border-meghna"></div>
 				</div>
 				<p>{{ .content | markdownify }}</p>
-				<p>Und was wenn ich den Text einfach hier einbinde?</p>
+				<p> Further content</p>
 				{{ if .button.enable }}
 				{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
