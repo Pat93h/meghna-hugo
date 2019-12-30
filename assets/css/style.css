@@ -49,7 +49,9 @@ pre {
 .panel-body {
     background-color: #333942;
     padding: 10px;
-    font-size: 20px;
+    font-family: quattrocento sans,sans-serif;
+    color: #fff;
+    text-align: justify;
 }
 
 .panel-heading {
@@ -60,7 +62,7 @@ pre {
 }
 
 .panel-heading:hover {
-    background-color: #15171b;
+    border-top: 2px solid #57cbcc;
 }
 
 /*=================================================================
