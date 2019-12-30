@@ -20,5 +20,3 @@ fields:
     required: false
   label: description
   description: this is meta description
-pages:
-- exampleSite/content/english/blog/erklärung-zum-datenschutz.20191203072044
