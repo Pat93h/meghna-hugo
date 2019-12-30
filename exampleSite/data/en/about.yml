@@ -4,26 +4,22 @@ about:
   title: Meine Leistungen
   bg_Image: images/backgrounds/bg-3.jpg
   about_Item:
-  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-    title : Energieausweis
-    content : Erstellung auf Grundlage des Energiebedarfs bzw. des Energieverbrauchs eines Gebäudes
-
-  - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-    title : Modernisierungskonzepte
-    content : Erstellung von Modernisierungskonzepten mit Amortisationsberechnungen
-
-  - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-    title : Beratung
-    content : zur Auswahl von Förderprogrammen
-
-  - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-    title : Bau
-    content : von Möbeln und Küchen
-
-  - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-    title : Fenster und Türen
-    content : Beratung, Einbau, Insektenschutz für Fenster und Türen
-
-  - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-    title : Schreiner- und Reparaturarbeiten
-    content :
+  - icon: ti-bolt
+    title: Energieausweis
+    content: Erstellung auf Grundlage des Energiebedarfs bzw. des Energieverbrauchs
+      eines Gebäudes
+  - icon: ti-layout
+    title: Modernisierungskonzepte
+    content: Erstellung von Modernisierungskonzepten mit Amortisationsberechnungen
+  - icon: ti-blackboard
+    title: Beratung
+    content: zur Auswahl von Förderprogrammen
+  - icon: ti-palette
+    title: Bau
+    content: von Möbeln und Küchen
+  - icon: ti-package
+    title: Fenster und Türen
+    content: Beratung, Einbau, Insektenschutz für Fenster und Türen
+  - icon: ti-pulse
+    title: Schreiner- und Reparaturarbeiten
+    content: 
