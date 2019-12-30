@@ -11,30 +11,6 @@ referenzen:
     filter_Title: Weiteres
   referenzen_Item:
   - types:
-    - Weiteres
-    image: images/Weiteres/4.jpg
-    URL: ''
-    title: Rundtreppe
-    content: ''
-  - types:
-    - Weiteres
-    image: images/Weiteres/3.jpg
-    URL: ''
-    title: Treppenaufgang
-    content: ''
-  - types:
-    - Haustüren
-    image: images/Haustueren/5.jpg
-    URL: ''
-    title: Moderne Haustür
-    content: ''
-  - types:
-    - Küchen
-    image: images/Kuechen/10.jpg
-    URL: ''
-    title: Küche mit Hochglanzfronten
-    content: ''
-  - types:
     - Küchen
     image: images/Kuechen/Kuechen_9.jpg
     URL: ''
@@ -57,6 +33,12 @@ referenzen:
     image: images/Kuechen/Kuechen_8.jpg
     URL: ''
     title: Eck-Küchenzeile
+    content: ''
+  - types:
+    - Küchen
+    image: images/Kuechen/10.jpg
+    URL: ''
+    title: Küche mit Hochglanzfronten
     content: ''
   - types:
     - Haustüren
@@ -83,6 +65,12 @@ referenzen:
     title: Moderne Haustür
     content: ''
   - types:
+    - Haustüren
+    image: images/Haustueren/5.jpg
+    URL: ''
+    title: Moderne Haustür
+    content: ''
+  - types:
     - Weiteres
     image: images/Weiteres/Weiteres_1.jpg
     URL: ''
@@ -93,4 +81,16 @@ referenzen:
     image: images/Weiteres/Weiteres_2.jpg
     URL: ''
     title: Parkettboden
+    content: ''
+  - types:
+    - Weiteres
+    image: images/Weiteres/3.jpg
+    URL: ''
+    title: Treppenaufgang
+    content: ''
+  - types:
+    - Weiteres
+    image: images/Weiteres/4.jpg
+    URL: ''
+    title: Rundtreppe
     content: ''
