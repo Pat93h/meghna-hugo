@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_Image: images/intro2.jpg
   icon: ''
-  title: Energieberater Uli Heinen
-  content: Willkommen! Hier finden Sie Informationen zu den Dienstleistungen von Energieberater
+  title: Gebäude-Energieberater Uli Heinen
+  content: Willkommen! Hier finden Sie Informationen zu den Dienstleistungen von Gebäude-Energieberater
     und Schreinermeister Uli Heinen aus Remscheid.
   button:
     enable: true
