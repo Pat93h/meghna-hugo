@@ -4,12 +4,6 @@ energieausweise:
   bg_Image: ''
   title: Über Energieausweise
   content: |-
-    <a href="#demo" data-toggle="collapse">Collapsible</a>
-
-    <div id="demo" class="collapse">
-    Lorem ipsum dolor text....
-    </div>
-
     Bei Vermietung oder Veräußerung eines Gebäudes muss der Hausbesitzer seinen Kunden einen Energieausweis mit den Kennwerten des Energieverbrauchs für dieses Gebäude vorlegen. Somit soll der potenzielle Kunde sich über die Nebenkosten durch die Heizung und Warmwasser für das Gebäude ein Bild machen können.
 
     Dieser Energieausweis kann unter bestimmten Bedingungen verbrauchsorientiert oder bedarfsorientiert ermittelt werden. Verbrauchsorientierte Ausweise können sehr preiswert ausgestellt werden. Der Nachweis wird unter Berücksichtigung der tatsächlichen Energieverbräuche des Gebäudes von drei zusammenhängenden Jahren ermittelt. Eine tatsächliche Aussage über die Energieeffizienz des Gebäudes, also die Dämmqualität der Außenhülle oder die Aktualität der Heizungsanlage bietet der verbrauchsorientierte Ausweis nicht.
@@ -18,9 +12,13 @@ energieausweise:
 
     Ob Ihr Gebäude nun einen bedarfsorientierten oder verbrauchsorientierten Energieausweis benötigt, kann ich Ihnen schnell und zuverlässig in einem ersten Gespräch ermitteln.
 
-    ## Was ist ein Energieausweis?
+    <a href="#what" data-toggle="collapse">## Was ist ein Energieausweis?</a>
+
+    <p id="what" class="collapse">
     Energieausweise geben Auskunft über den Energieverbrauch pro Quadratmeter Nutzfläche und Jahr, ähnlich wie wir das schon von Energieeffizienzklassen bei Haushaltsgeräten oder dem Durchschnittsverbrauch von Fahrzeugen kennen. Damit sollen Kaufinteressenten und künftige Mieter eine objektive Information darüber bekommen, ob das Gebäude einen hohen oder einen niedrigen Energiebedarf hat. Die politische Erwartung besteht darin, Gebäude mit schlechten Energiekennwerten kenntlich zu machen, um so den Gebäudeeigentümer zu energetisch wirksamen Modernisierungen zu motivieren.
-    Wer braucht einen Energieausweis?
+    </div>
+
+    ## Wer braucht einen Energieausweis?
     Jeder Kauf- oder Mietinteressent für eine Wohnung oder ein Haus hat das Recht auf Vorlage eines gültigen Energieausweises durch den Verkäufer oder Vermieter. Mieter in bestehenden Mietverhältnissen haben keinen Anspruch auf einen Energieausweis. Ein Energieausweis ist immer dann erforderlich, wenn ein Haus oder eine Wohnung verkauft, bzw. neu vermietet wird.
 
     ## Welchen Energieausweis benötige ich?
