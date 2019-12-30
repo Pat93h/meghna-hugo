@@ -8,7 +8,7 @@ description: This is meta description
 ---
 Allgemeine Nutzungsbedingungen für Gebäude-Energieberater und Tischlermeister Uli Heinen - Energieberatung in Remscheid
 
-##1. Informationen zum Urheberrecht
+## 1. Informationen zum Urheberrecht
 Alle Informationen dieser Web-Seite werden wie angegeben ohne Anspruch auf Richtigkeit, Vollständigkeit oder Aktualität zur Verfügung gestellt.  
 Wenn nicht ausdrücklich anderweitig in dieser Publikation zu verstehen gegeben, und zwar in Zusammenhang mit einem bestimmten Ausschnitt, einer Datei, oder einem Dokument, ist jedermann dazu berechtigt, dieses Dokument anzusehen, zu kopieren, zu drucken und zu verteilen, unter den folgenden Bedingungen:  
 Das Dokument darf nur für nichtkommerzielle Informationszwecke genutzt werden. Jede Kopie dieses Dokuments oder eines Teils davon muss diese urheberrechtliche Erklärung und das urheberrechtliche Schutzzeichen des Betreibers enthalten. Das Dokument, jede Kopie des Dokuments oder eines Teils davon dürfen nicht ohne schriftliche Zustimmung des Betreibers verändert werden. Der Betreiber behält sich das Recht vor, diese Genehmigung jederzeit zu widerrufen, und jede Nutzung muss sofort eingestellt werden, sobald eine schriftliche Bekanntmachung seitens des Betreibers veröffentlicht wird.
