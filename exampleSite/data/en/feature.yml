@@ -8,7 +8,7 @@ feature:
     denn je, denn:'
   feature_Item:
   - icon: ti-stats-up
-    title: Kosten steigen
+    title: Die Kosten steigen
     content: Die Energiekosten von Gebäuden werden in den nächsten Jahren weiter anwachsen.
   - icon: ti-agenda
     title: EnEV 2009
