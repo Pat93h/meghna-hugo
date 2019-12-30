@@ -24,3 +24,7 @@ leistungen:
   - icon: ti-hummer
     title: Schreiner- und Reparaturarbeiten
     content: Verlegen und Aufarbeitung von Bodenbelägen, Reparaturen
+  button:
+    enable: true
+    label: Stellen Sie gern eine Anfrage!
+    link: "#kontakt"
