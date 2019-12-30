@@ -701,6 +701,7 @@ a:hover {
 
 .call-to-action p {
   font-size: 18px;
+  text-align: justify;
   color: #fff;
 }
 
