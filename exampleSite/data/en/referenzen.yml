@@ -11,6 +11,12 @@ referenzen:
     filter_Title: Weiteres
   referenzen_Item:
   - types:
+    - Weiteres
+    image: images/Weiteres/3.jpg
+    URL: ''
+    title: Treppenaufgang
+    content: ''
+  - types:
     - Haustüren
     image: images/Haustueren/5.jpg
     URL: ''
