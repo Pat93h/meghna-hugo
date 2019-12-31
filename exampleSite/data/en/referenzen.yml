@@ -3,10 +3,10 @@ referenzen:
   enable: true
   title: Meine Referenzen
   filter_List:
-  - filter_Type: Haustüren
-    filter_Title: Haustüren
   - filter_Type: Küchen
     filter_Title: Küchen
+  - filter_Type: Haustüren
+    filter_Title: Haustüren
   - filter_Type: Weiteres
     filter_Title: Weiteres
   referenzen_Item:
