@@ -19,6 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 URL = "kontakt"
 name = "Kontakt"
@@ -44,8 +46,8 @@ URL = "impressum"
 name = "Impressum & Datenschutz"
 weight = 6
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Patrick Halbach"
+description = "Der Gebäude-Energieberater Uli Heinen in Remscheid Lüttringhausen bietet Ihnen Erfahrung bei Energieberatung beginnend beim Energiepass bis hin zu Modernisierungskonzepten und auch bei Schreinerarbeiten."
 googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = false
@@ -75,5 +77,3 @@ URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-[markup.goldmark.renderer]
-unsafe= true
