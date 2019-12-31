@@ -48,8 +48,8 @@ weight = 6
 [params]
 author = "Patrick Halbach"
 description = "Der Gebäude-Energieberater Uli Heinen in Remscheid Lüttringhausen bietet Ihnen Erfahrung bei Energieberatung beginnend beim Energiepass bis hin zu Modernisierungskonzepten und auch bei Schreinerarbeiten."
-keywords = "Gebäude-Energieberater, Energieberater, Uli Heinen, Remscheid, Uli, Heinen, Energieberatung, Energiepass, Gebäudeenergieberatung, Schreinermeister, Schreiner, Tischlermeister, Tischler"
 googleAnalitycsID = "Your ID"
+keywords = "Gebäude-Energieberater, Energieberater, Uli Heinen, Remscheid, Uli, Heinen, Energieberatung, Energiepass, Gebäudeenergieberatung, Schreinermeister, Schreiner, Tischlermeister, Tischler, Energieausweis"
 logo = "images/logo.png"
 postShare = false
 social_Icon = []
