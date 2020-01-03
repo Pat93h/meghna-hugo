@@ -735,6 +735,10 @@ a:hover {
   padding-top: 50px;
 }
 
+.form-group {
+  color: #FFF;
+}
+
 @media (max-width: 768px) {
   .contact-us {
     padding-top: 80px;
