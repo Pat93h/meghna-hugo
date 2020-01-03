@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Nutzungsbedingungen
+title: Haftungsausschluss (Disclaimer)
 date:
 author: ''
 image: ''
