@@ -6,8 +6,8 @@
   HUGO_VERSION = "0.60.1"
   HUGO_THEME = "repo"
 
-  [[redirects]]
-  from = "https://energieberater.netlify.com"
-  to = "https://energieberatung-heinen.de"
-  status = 301
-  force = true
+  # [[redirects]]
+  # from = "https://energieberater.netlify.com"
+  # to = "https://energieberatung-heinen.de"
+  # status = 301
+  # force = true
